@@ -1,0 +1,3 @@
+https://github.com/aravindY9/wellness-App
+
+git remote add origin https://github.com/aravindY9/wellness-App.git
